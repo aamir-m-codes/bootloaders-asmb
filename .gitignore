@@ -1,0 +1,27 @@
+# Object files
+*.o
+*.obj
+
+# Listing and Map files
+*.lst
+*.map
+
+# device image
+*.img
+
+# Executables
+*.exe
+*.com
+*.out
+*.bin
+
+# Debugging and IDE-specific files
+*.pdb
+*.ilk
+*.suo
+*.user
+.vs/
+.vscode/
+
+# MacOS specific
+.DS_Store
